@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://data.vtfirewatch.dev.r2.ax/sitemap.xml
