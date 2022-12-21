@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://data.vtfirewatch.dev.r2.ax/test.html",
-            "url": "https://data.vtfirewatch.dev.r2.ax/test.html",
+            "id": "https://data.vtfirewatch.dev.r2.ax/test/",
+            "url": "https://data.vtfirewatch.dev.r2.ax/test/",
             "title": "test",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
