@@ -3,25 +3,48 @@
     <title>VT Firewatch Open Data</title>
     <link href="https://data.vtfirewatch.dev.r2.ax/feed.xml" rel="self" />
     <link href="https://data.vtfirewatch.dev.r2.ax" />
-    <updated>2022-12-20T22:36:31-05:00</updated>
+    <updated>2022-12-21T08:47:48-05:00</updated>
     <author>
         <name>VT Firewatch Team</name>
     </author>
     <id>https://data.vtfirewatch.dev.r2.ax</id>
 
     <entry>
-        <title>test</title>
+        <title>Hall Blueprint Post</title>
         <author>
             <name>VT Firewatch Team</name>
         </author>
-        <link href="https://data.vtfirewatch.dev.r2.ax/test/"/>
-        <id>https://data.vtfirewatch.dev.r2.ax/test/</id>
+        <link href="https://data.vtfirewatch.dev.r2.ax/halltest-one/"/>
+        <id>https://data.vtfirewatch.dev.r2.ax/halltest-one/</id>
+            <category term="All"/>
 
-        <updated>2022-12-20T22:36:31-05:00</updated>
-            <summary></summary>
+        <updated>2022-12-21T08:47:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Hall Blueprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum nisi consequat, tempus mauris at, bibendum mauris. Nullam ac est efficitur libero ultricies sollicitudin. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras venenatis bibendum tellus, vitae condimentum lacus mattis porta. Praesent elementum elit justo, sit amet imperdiet justo blandit ac. Curabitur tristique eget ex a hendrerit. Nulla ex ante, accumsan sit amet orci aliquet, aliquet elementum ex. curl api.data.us.nova.testdomain.tld US West Datacenter&nbsp; curl api.data.us.cali.testdomain.tld
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
+    <h2 id="hall-blueprint">
+      Hall Blueprint
+    </h2>
+
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum nisi consequat, tempus mauris at, bibendum mauris. Nullam ac est efficitur libero ultricies sollicitudin. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras venenatis bibendum tellus, vitae condimentum lacus mattis porta. Praesent elementum elit justo, sit amet imperdiet justo blandit ac. Curabitur tristique eget ex a hendrerit. Nulla ex ante, accumsan sit amet orci aliquet, aliquet elementum ex.
+  </p>
+
+    <h2 id="us-east-datacenternbsp">
+      US East Datacenter&nbsp;
+    </h2>
+<pre class="line-numbers  language-html"><code>curl api.data.us.nova.testdomain.tld</code></pre>
+
+    <h2 id="us-west-datacenternbsp">
+      US West Datacenter&nbsp;
+    </h2>
+<pre class="line-numbers  language-html"><code>curl api.data.us.cali.testdomain.tld</code></pre>
+
   <p>
     
   </p>
