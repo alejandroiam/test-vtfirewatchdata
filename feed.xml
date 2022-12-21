@@ -3,10 +3,29 @@
     <title>VT Firewatch Open Data</title>
     <link href="https://data.vtfirewatch.dev.r2.ax/feed.xml" rel="self" />
     <link href="https://data.vtfirewatch.dev.r2.ax" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2022-12-20T22:36:31-05:00</updated>
     <author>
         <name>VT Firewatch Team</name>
     </author>
     <id>https://data.vtfirewatch.dev.r2.ax</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>VT Firewatch Team</name>
+        </author>
+        <link href="https://data.vtfirewatch.dev.r2.ax/test.html"/>
+        <id>https://data.vtfirewatch.dev.r2.ax/test.html</id>
+
+        <updated>2022-12-20T22:36:31-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
