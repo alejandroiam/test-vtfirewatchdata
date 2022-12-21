@@ -1,0 +1,1 @@
+var index = [{"id":"post-1","title":"test","excerpt":"","headings":"","author":"VT Firewatch Team","metaDescription":"","url":"https://data.vtfirewatch.dev.r2.ax/test/"}];window.publiiStaticSearchInitCallback(index);
